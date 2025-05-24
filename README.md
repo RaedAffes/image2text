@@ -10,3 +10,4 @@ pinned: false
 
 # image2textapp
 demo of 🤗 spaces deployment of a streamlit python app
+link to the app : https://huggingface.co/spaces/RaedAffes/image2textapp
