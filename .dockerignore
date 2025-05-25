@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.env
+*.log
+*.sqlite3
+.DS_Store
+.vscode/
+.idea/
+.git/
+*.db
+*.bak
+*.swp
+*.swo
+*.egg-info/
+# Ignore everything except source code and requirements
+!app.py
+!requirements.txt
+!README.md
