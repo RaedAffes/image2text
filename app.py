@@ -2,7 +2,7 @@ import easyocr as ocr  #OCR
 import streamlit as st  #Web App
 from PIL import Image #Image Processing
 import numpy as np #Image Processing 
-
+ 
 #title
 st.title("Easy OCR(Optical Character Recognition.) - Extract Text from Images")
 
