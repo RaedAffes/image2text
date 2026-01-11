@@ -4,7 +4,7 @@ __pycache__/
 *.pyd
 .env
 *.env
-*.log
+*.log 
 *.sqlite3
 .DS_Store
 .vscode/
