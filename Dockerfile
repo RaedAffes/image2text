@@ -15,5 +15,5 @@ COPY . .
 EXPOSE 5000
 
 # Run the application (update if your app uses a different entrypoint)
-CMD ["python", "app.py"]
+CMD ["python", "app.py"] 
  
